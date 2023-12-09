@@ -2,5 +2,5 @@
     <string name="app_name">Jobsheet1</string>
     <string name="nameEditText">Nama Mahasiswa</string>
     <string name="buttonButton">Button</string>
-    <string name="buttonTextView">Halo %1$</string>
+    <string name="buttonTextView">Halo %1$s</string>
 </resources>
